@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PqlQzFdu3ZSVAA7btbRplQkZY39ONGFtzQfrELClV8KViKfBl8AnL+Zm9evUR6X+N5EeuuFVrBNR8mK5DCIt5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\windows\\source\\repos\\SelenimAutomationTask\\SelenimAutomationTask\\SelenimAutomationTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\windows\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\windows\\.nuget\\packages\\selenium.webdriver\\4.9.1\\selenium.webdriver.4.9.1.nupkg.sha512",
+    "C:\\Users\\windows\\.nuget\\packages\\webdriverchromedriver\\2.10.0\\webdriverchromedriver.2.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
