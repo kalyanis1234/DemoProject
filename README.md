@@ -31,7 +31,7 @@ Added 4 items to cart
 
 ![image](https://github.com/kalyanis1234/DemoProject/assets/77338836/406fe4ba-96f9-4a2f-9620-3ccc0e6ede2b)
 
-reoved lowest price item from cart
+removed lowest price item from cart
 
 ![image](https://github.com/kalyanis1234/DemoProject/assets/77338836/70751794-e683-4c3c-a35c-85785dbfd8e4)
 
