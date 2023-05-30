@@ -3,7 +3,7 @@
 Overview
 This project provides an example for testing a UI with Selenium WebDriver, written in C#, using the Page Object Model design pattern and driven via BDD feature files through C# BDD. It can be used to kickstart testing of other UIs with minimal changes to the project.
 
-Test soltion using BDD approach..!!
+Test solution using BDD approach..!!
 dummy web site : https://cms.demo.katalon.com/
 
 Acceptance Criteria
